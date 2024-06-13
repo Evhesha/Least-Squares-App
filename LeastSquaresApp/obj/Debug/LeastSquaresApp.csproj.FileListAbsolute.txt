@@ -1,0 +1,130 @@
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresApp.exe.config
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresApp.exe
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresApp.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\App.g.cs
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp_MarkupCompile.cache
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp_MarkupCompile.lref
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\MainWindow.baml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.g.resources
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.Properties.Resources.resources
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.csproj.GenerateResource.cache
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.exe
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\libSkiaSharp.dylib
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\x86\libSkiaSharp.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\x64\libSkiaSharp.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\arm64\libSkiaSharp.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\GLWpfControl.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\OpenTK.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\ScottPlot.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\ScottPlot.WPF.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Buffers.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Drawing.Common.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Memory.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.ValueTuple.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\GLWpfControl.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\OpenTK.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\OpenTK.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Buffers.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Memory.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.ValueTuple.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp_Content.g.cs
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSqu.32D4C2CF.Up2Date
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\AboutAuthorWindow.g.cs
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\AboutAuthorWindow.baml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\GridGenerator.g.cs
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\GridGenerator.baml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.Interfaces.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.System.Drawing.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresLibrary.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresLibrary.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\MWArray.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\WebFiguresService.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\MWArray.xml
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresApp\bin\Debug\Square.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\libSkiaSharp.dylib
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\x86\libSkiaSharp.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\x64\libSkiaSharp.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\arm64\libSkiaSharp.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresApp.exe.config
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresApp.exe
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresApp.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.Interfaces.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.System.Drawing.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\GLWpfControl.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresLibrary.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\MWArray.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\OpenTK.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\ScottPlot.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\ScottPlot.WPF.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\Square.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Buffers.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Drawing.Common.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Memory.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Numerics.Vectors.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.ValueTuple.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\WebFiguresService.dll
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\EPPlus.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\GLWpfControl.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\LeastSquaresLibrary.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\MWArray.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\OpenTK.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\OpenTK.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Buffers.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Memory.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Numerics.Vectors.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\bin\Debug\System.ValueTuple.xml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.csproj.AssemblyReference.cache
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\GridGenerator.g.cs
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\AboutAuthorWindow.g.cs
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\MainWindow.g.cs
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\App.g.cs
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp_Content.g.cs
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp_MarkupCompile.cache
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp_MarkupCompile.lref
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\GridGenerator.baml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\Windows\AboutAuthorWindow.baml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\MainWindow.baml
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.g.resources
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.Properties.Resources.resources
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.csproj.GenerateResource.cache
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.csproj.CoreCompileInputs.cache
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSqu.32D4C2CF.Up2Date
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.exe
+D:\BNTU\2 курс\4 семестр\Разработка приложений в визуальных средах\Курсовой проект\LeastSquaresApp\LeastSquaresApp\obj\Debug\LeastSquaresApp.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-23T21:16:06.808+03:00" lasteditedby="sdxb1" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Введение</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Введение</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:14pt;">Здравствуйте, в данном help вы узнаете: </text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">1. Как создать и импортировать матрицу значений из Excel</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">2. Как отрисовать график в главном окне программы</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">3. Как экспортировать график в Word и Excel</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">4. Как отрисовать график в &#160;MATLAB</text></para>
+  </body>
+</topic>

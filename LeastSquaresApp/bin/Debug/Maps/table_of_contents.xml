@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="454057126142350" build="ALL" modified="2024-04-23T21:16:02.805Z" icon="0" href="Welcome-topic">
+    <caption translate="true">Введение</caption>
+  </topicref>
+  <topicref type="topic" id="454057893927711" build="ALL" modified="2024-04-23T21:17:22.241Z" icon="0" href="Second-topic">
+    <caption translate="true">Метод найменьших квадратов</caption>
+  </topicref>
+  <topicref type="topic" id="454058210883315" build="ALL" modified="2024-04-23T21:17:49.593Z" icon="0" href="Chapter-2">
+    <caption translate="true">Обзор программы</caption>
+    <topicref type="topic" id="454060364073234" build="ALL" modified="2024-04-23T21:18:16.285Z" icon="0" href="Overview">
+      <caption translate="true">Создание матрицы</caption>
+    </topicref>
+    <topicref type="topic" id="454057311708151" build="ALL" modified="2024-04-23T21:18:25.939Z" icon="0" href="Sub-chapter-2_1">
+      <caption translate="true">Отрисовка графика</caption>
+    </topicref>
+    <topicref type="topic" id="454057417679011" build="ALL" modified="2024-04-23T21:18:35.350Z" icon="0" href="New-topic">
+      <caption translate="true">Экспорт графика</caption>
+    </topicref>
+    <topicref type="topic" id="454059174137141" build="ALL" modified="2024-04-23T21:19:19.120Z" icon="0" href="-">
+      <caption translate="true">Отрисовка графика в MATLAB</caption>
+    </topicref>
+  </topicref>
+</map>

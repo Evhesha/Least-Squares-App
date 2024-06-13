@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LeastSquaresApp.MainWindow">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACBAAAAAAoAIAAAgGAACAIECAACAACBgAAAAI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="LeastSquaresApp.AboutAuthorWindow">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\AboutAuthorWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LeastSquaresApp.GridGenerator">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIEAAAAABAAAAEAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Windows\GridGenerator.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LeastSquaresApp.ClassFolder.DrawGraph">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassFolder\DrawGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeastSquaresApp.ClassFolder.ExcelExport">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ClassFolder\ExcelExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeastSquaresProject.LeastSquaresClassProject">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAEgAAAEA=</HashCode>
+      <FileName>ClassFolder\LeastSquaresClassProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeastSquaresApp.ClassFolder.WordExport">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ClassFolder\WordExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeastSquaresApp.App">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

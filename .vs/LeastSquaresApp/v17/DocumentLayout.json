@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\classdiagramproject.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\classdiagramproject.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\classfolder\\leastsquaresclassproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\classfolder\\leastsquaresclassproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860ADD82-4D04-4097-B6CE-D564E5A6523A}|LeastSquaresLibrary\\LeastSquaresLibrary.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquareslibrary\\leastsquaresmethodclasslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860ADD82-4D04-4097-B6CE-D564E5A6523A}|LeastSquaresLibrary\\LeastSquaresLibrary.csproj|solutionrelative:leastsquareslibrary\\leastsquaresmethodclasslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\classfolder\\wordexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\classfolder\\wordexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\classfolder\\excelexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\classfolder\\excelexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\classfolder\\drawgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\classfolder\\drawgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|d:\\visual studio\\projects\\c#\\leastsquaresapp\\leastsquaresapp\\windows\\gridgenerator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\windows\\gridgenerator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|d:\\visual studio\\projects\\c#\\leastsquaresapp\\leastsquaresapp\\windows\\gridgenerator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\windows\\gridgenerator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\windows\\aboutauthorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\windows\\aboutauthorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\windows\\aboutauthorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\windows\\aboutauthorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|d:\\visual studio\\projects\\c#\\leastsquaresapp\\leastsquaresapp\\images\\splash_screen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\images\\splash_screen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\packages\\EPPlus.7.1.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.7.1.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\leastsquaresapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A3312AB-63C3-41C0-A0E0-DDE871EB76F2}|LeastSquaresApp\\LeastSquaresApp.csproj|solutionrelative:leastsquaresapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WordExport.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\WordExport.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\ClassFolder\\WordExport.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\WordExport.cs",
+              "RelativeToolTip": "LeastSquaresApp\\ClassFolder\\WordExport.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:53:47.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeastSquaresClassProject.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\LeastSquaresClassProject.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\ClassFolder\\LeastSquaresClassProject.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\LeastSquaresClassProject.cs",
+              "RelativeToolTip": "LeastSquaresApp\\ClassFolder\\LeastSquaresClassProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:53:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeastSquaresMethodClassLibrary.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresLibrary\\LeastSquaresMethodClassLibrary.cs",
+              "RelativeDocumentMoniker": "LeastSquaresLibrary\\LeastSquaresMethodClassLibrary.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresLibrary\\LeastSquaresMethodClassLibrary.cs",
+              "RelativeToolTip": "LeastSquaresLibrary\\LeastSquaresMethodClassLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:12:51.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\App.xaml",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\App.xaml",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\App.xaml",
+              "RelativeToolTip": "LeastSquaresApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T19:30:49.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LeastSquaresApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwO8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:52:46.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelExport.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\ExcelExport.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\ClassFolder\\ExcelExport.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\ExcelExport.cs",
+              "RelativeToolTip": "LeastSquaresApp\\ClassFolder\\ExcelExport.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:51:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagramProject.cd",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassDiagramProject.cd",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\ClassDiagramProject.cd",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassDiagramProject.cd",
+              "RelativeToolTip": "LeastSquaresApp\\ClassDiagramProject.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-06T19:02:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DrawGraph.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\DrawGraph.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\ClassFolder\\DrawGraph.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\ClassFolder\\DrawGraph.cs",
+              "RelativeToolTip": "LeastSquaresApp\\ClassFolder\\DrawGraph.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:04:54.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\App.xaml.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\App.xaml.cs",
+              "RelativeToolTip": "LeastSquaresApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:00:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GridGenerator.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\GridGenerator.xaml.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\Windows\\GridGenerator.xaml.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\GridGenerator.xaml.cs",
+              "RelativeToolTip": "LeastSquaresApp\\Windows\\GridGenerator.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv14AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:07:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GridGenerator.xaml",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\GridGenerator.xaml",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\Windows\\GridGenerator.xaml",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\GridGenerator.xaml",
+              "RelativeToolTip": "LeastSquaresApp\\Windows\\GridGenerator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T07:11:00.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutAuthorWindow.xaml",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml",
+              "RelativeToolTip": "LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T08:06:40.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutAuthorWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml.cs",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml.cs",
+              "RelativeToolTip": "LeastSquaresApp\\Windows\\AboutAuthorWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:07:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "splash_screen.png",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Images\\splash_screen.png",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\Images\\splash_screen.png",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\Images\\splash_screen.png",
+              "RelativeToolTip": "LeastSquaresApp\\Images\\splash_screen.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-07T05:45:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\MainWindow.xaml",
+              "RelativeToolTip": "LeastSquaresApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-08T08:52:56.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\App.config",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\App.config",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\App.config",
+              "RelativeToolTip": "LeastSquaresApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-05T06:05:46.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\packages\\EPPlus.7.1.0\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.7.1.0\\readme.txt",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\packages\\EPPlus.7.1.0\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.7.1.0\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-05T06:20:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\packages.config",
+              "RelativeDocumentMoniker": "LeastSquaresApp\\packages.config",
+              "ToolTip": "D:\\Visual Studio\\projects\\c#\\LeastSquaresApp\\LeastSquaresApp\\packages.config",
+              "RelativeToolTip": "LeastSquaresApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-04T14:44:10.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

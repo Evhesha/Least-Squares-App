@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-23T21:22:06.210+03:00" lasteditedby="sdxb1" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Отрисовка графика</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Отрисовка графика</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:14pt;">Отрисовка графика происходит путем нажатия соответсвующей кнопки &quot;График&quot;.</text><br/><text style="font-size:14pt;">(продемонстрировано в </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-2" style="font-size:14pt;">инструкции по работе с программой</link><text style="font-size:14pt;">). Заполнение матрицы значений ОБЯЗАТЕЛЬНО должно быть семетричным.</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Если не использован какой-либо из методов получения данных о матрице значений - программа скажет, что матрица заполнена не корректно,</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">или вовсе пуста. На рисунке представлен график </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-right:10px; margin-bottom:10px; margin-left:10px; line-height:1.00; tabstops:none;"><image src="file.png" scale="72.40%" width="579" height="579" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+  </body>
+</topic>

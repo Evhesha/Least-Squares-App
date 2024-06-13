@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-23T21:22:42.192+03:00" lasteditedby="sdxb1" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Отрисовка графика в MATLAB</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Отрисовка графика в MATLAB</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:14pt;">В данной программе доступно отрисовка графика в MATLAB.</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Отрисовка графика в &#160;MATLAB происходит путем нажатия соответсвующей кнопки &quot;Получить график MATLAB&quot;.</text><br/><text style="font-size:14pt;">(продемонстрировано в </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-2" style="font-size:14pt;">инструкции по работе с программой</link><text style="font-size:14pt;">).</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Результат отрисовки графика продемонстрирован на рисунке ниже</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0010.png" imagestyleclass="Default" scale="63.59%" width="446" height="400" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Для создания dll отрисовки графики необходимо:</text></para>
+    <para styleclass="Normal">1. Создать функцию в MATLAB</para>
+    <para styleclass="Normal"><image src="clip0008.png" imagestyleclass="Default" scale="40.70%" width="781" height="419" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Затем сохранить ее с расширением .m</para>
+    <para styleclass="Normal">2. Далее перейти в Application Compiler и сделать примерно, как на скриншоте</para>
+    <para styleclass="Normal"><image src="clip0009.png" imagestyleclass="Default" scale="40.39%" width="775" height="416" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">В итоге получите dll.</para>
+    <para styleclass="Normal">В свойствах проекта необходимо указать на вид запуска x64 как на рисунке ниже</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0012.png" imagestyleclass="Default" scale="39.07%" width="750" height="402" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

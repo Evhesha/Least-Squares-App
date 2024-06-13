@@ -1,0 +1,6 @@
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresLibrary\bin\Debug\LeastSquaresLibrary.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresLibrary\bin\Debug\LeastSquaresLibrary.pdb
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresLibrary\obj\Debug\LeastSquaresLibrary.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresLibrary\obj\Debug\LeastSquaresLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresLibrary\obj\Debug\LeastSquaresLibrary.dll
+D:\Visual Studio\projects\c#\LeastSquaresApp\LeastSquaresLibrary\obj\Debug\LeastSquaresLibrary.pdb

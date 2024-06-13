@@ -1,0 +1,23 @@
+﻿<Window x:Class="LeastSquaresApp.AboutAuthorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeastSquaresApp"
+        mc:Ignorable="d"
+        Title="AboutAuthorWindow" Height="350" Width="480" Background="LightBlue" ResizeMode="NoResize">
+    <Grid>
+        <Image Source="author.jpg" Margin="-65,60,192,31" />
+
+        <Label Content="Программа решения задач линейной регрессии" HorizontalAlignment="Left" Margin="32,10,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="методом найменьших квадратов" HorizontalAlignment="Left" Margin="17,26,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Least Square Method (LSM) App" HorizontalAlignment="Left" Margin="230,73,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="version(1.0)" HorizontalAlignment="Left" Margin="231,88,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Медведский Е.В." HorizontalAlignment="Left" Margin="230,123,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="гр. 10701222" HorizontalAlignment="Left" Margin="230,140,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Минск. БНТУ. ФИТР" HorizontalAlignment="Left" Margin="230,181,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="2024" HorizontalAlignment="Left" Margin="232,199,0,0" VerticalAlignment="Top" FontSize="15"/>
+
+        <Button Name="AcceptButton" Content="Ок" HorizontalAlignment="Left" Margin="234,246,0,0" VerticalAlignment="Top" Width="162" Height="35" FontSize="15" Background="Azure" Click="AcceptButton_Click"/>
+    </Grid>
+</Window>

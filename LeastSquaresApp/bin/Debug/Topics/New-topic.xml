@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-23T21:22:24.619+03:00" lasteditedby="sdxb1" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Экспорт графика</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Экспорт графика</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:14pt;">В данной программе доступно экспортирование графика в Word и &#160;Excel.</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Экспорт графика происходит путем нажатия соответсвующей кнопки &quot;Экспортировать в Word&quot; и &quot;Экспортировать в Excel&quot;.</text><br/><text style="font-size:14pt;">(продемонстрировано в </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Chapter-2" style="font-size:14pt;">инструкции по работе с программой</link><text style="font-size:14pt;">).</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Для экспорта в Word вас иногда может уведомить, что проект защищен от редактирования сторонними программами, </text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">если вы хотите экспортировать в конкретный Word документ необходимо сделать следующие операции.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:12pt;">1. Перейти в Word-документ, в который хотим экспортировать график. И в разделе файл открыть сведенья</text></para>
+    <para styleclass="Normal"><image src="clip0003.png" imagestyleclass="Default" scale="60.19%" width="608" height="438" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">2. Выбрать ограничить редактирование</para>
+    <para styleclass="Normal"><image src="clip0004.png" imagestyleclass="Default" scale="63.07%" width="633" height="551" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">3.Справа документа появиться выпадающее окно, в котором выбрать следующее</para>
+    <para styleclass="Normal"><image src="clip0005.png" imagestyleclass="Default" scale="61.84%" width="344" height="422" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"><text style="font-size:12pt;">&#32;</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">На следующих рисунках продемонстрирован результат экспорта в Word и Excel</text></para>
+    <para styleclass="Normal"><image src="clip0006.png" imagestyleclass="Default" scale="38.32%" width="736" height="402" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0007.png" imagestyleclass="Default" scale="38.11%" width="732" height="396" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

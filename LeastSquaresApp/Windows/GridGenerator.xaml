@@ -1,0 +1,65 @@
+﻿<Window x:Class="LeastSquaresApp.GridGenerator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeastSquaresApp"
+        mc:Ignorable="d"
+        Title="GridGenerator" Height="230" Width="600" Background="LightBlue">
+    <Grid>
+        <Button Name="SaveGridButton" Content="Сохранить" HorizontalAlignment="Left" Height="35" Margin="13,143,0,0" VerticalAlignment="Top" Width="136" Background="Azure" FontSize="15" Click="SaveGridButton_Click"/>
+        <Button Name="ExitButton" Content="Отменить" HorizontalAlignment="Left" Height="35" Margin="164,143,0,0" VerticalAlignment="Top" Width="136" Background="Tomato" FontSize="15" Click="ExitButton_Click"/>
+
+        <Grid Name="Grid" HorizontalAlignment="Left" Height="88" Margin="12,29,0,0" VerticalAlignment="Top" Width="565">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Row="0" Grid.Column="0"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="1"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="2"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="3"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="4"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="5"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="6"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="7"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="8"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="9"  FontSize="17"/>
+            <TextBox Grid.Row="0" Grid.Column="10" FontSize="17" />
+            <TextBox Grid.Row="0" Grid.Column="11" FontSize="17" />
+            <TextBox Grid.Row="0" Grid.Column="12" FontSize="17" />
+            <TextBox Grid.Row="0" Grid.Column="13" FontSize="17" />
+            <TextBox Grid.Row="1" Grid.Column="0"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="1"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="2"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="3"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="4"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="5"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="6"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="7"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="8"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="9"  FontSize="17"/>
+            <TextBox Grid.Row="1" Grid.Column="10" FontSize="17" />
+            <TextBox Grid.Row="1" Grid.Column="11" FontSize="17" />
+            <TextBox Grid.Row="1" Grid.Column="12" FontSize="17" />
+            <TextBox Grid.Row="1" Grid.Column="13" FontSize="17" />
+        </Grid>
+
+    </Grid>
+</Window>
